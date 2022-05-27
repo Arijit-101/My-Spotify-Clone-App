@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-Spotify-Clone-App/static/css/main.a6a2286b.css",
+    "main.js": "/My-Spotify-Clone-App/static/js/main.6c074b70.js",
+    "static/js/787.6a3b9d5d.chunk.js": "/My-Spotify-Clone-App/static/js/787.6a3b9d5d.chunk.js",
+    "index.html": "/My-Spotify-Clone-App/index.html",
+    "main.a6a2286b.css.map": "/My-Spotify-Clone-App/static/css/main.a6a2286b.css.map",
+    "main.6c074b70.js.map": "/My-Spotify-Clone-App/static/js/main.6c074b70.js.map",
+    "787.6a3b9d5d.chunk.js.map": "/My-Spotify-Clone-App/static/js/787.6a3b9d5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a2286b.css",
+    "static/js/main.6c074b70.js"
+  ]
+}
